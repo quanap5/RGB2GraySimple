@@ -1,1 +1,3 @@
-"# RGB2GraySimple" 
+# RGB2GraySimple
+
+
