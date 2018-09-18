@@ -11,8 +11,11 @@ namespace RGB2Gray
     {
         static void Main(string[] args)
         {
-            string bmstr = @"C:\Users\admin\source\repos\RGB2Gray\test.jpg";
-            string graystr = @"C:\Users\admin\source\repos\RGB2Gray\RGB2Gray.jpg";
+            string bmstr = @"C:\Users\admin\source\repos\RGB2Gray\test2.png";
+            var temFile = bmstr.Substring(bmstr.LastIndexOf('\\') + 1);
+            var temFile2 = temFile.Substring(0, temFile.LastIndexOf('.'));
+            string graystr = @"C:\Users\admin\source\repos\RGB2Gray\" + temFile2 +"Gray.png";
+            Console.WriteLine(graystr);
 
             Bitmap sourcebm = null;
             Bitmap graybm = null;
