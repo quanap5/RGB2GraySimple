@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\RGB2Gray\RGB2Gray\bin\Debug\RGB2Gray.exe.config
+C:\Users\admin\source\repos\RGB2Gray\RGB2Gray\bin\Debug\RGB2Gray.exe
+C:\Users\admin\source\repos\RGB2Gray\RGB2Gray\bin\Debug\RGB2Gray.pdb
+C:\Users\admin\source\repos\RGB2Gray\RGB2Gray\obj\Debug\RGB2Gray.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\RGB2Gray\RGB2Gray\obj\Debug\RGB2Gray.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\RGB2Gray\RGB2Gray\obj\Debug\RGB2Gray.exe
+C:\Users\admin\source\repos\RGB2Gray\RGB2Gray\obj\Debug\RGB2Gray.pdb
+E:\Learning\RGB2Gray\RGB2Gray\bin\Debug\RGB2Gray.exe.config
+E:\Learning\RGB2Gray\RGB2Gray\bin\Debug\RGB2Gray.exe
+E:\Learning\RGB2Gray\RGB2Gray\bin\Debug\RGB2Gray.pdb
+E:\Learning\RGB2Gray\RGB2Gray\obj\Debug\RGB2Gray.csprojAssemblyReference.cache
+E:\Learning\RGB2Gray\RGB2Gray\obj\Debug\RGB2Gray.csproj.CoreCompileInputs.cache
+E:\Learning\RGB2Gray\RGB2Gray\obj\Debug\RGB2Gray.exe
+E:\Learning\RGB2Gray\RGB2Gray\obj\Debug\RGB2Gray.pdb
